@@ -1,4 +1,5 @@
-[
+{
+  "trends": [
   {
     "trendId": "TRND1",
     "displayName": "#RomanticBohemia",
@@ -21,3 +22,4 @@
     "redirectQuery": ":relevance:trends:TRND3"
   }
 ]
+}
