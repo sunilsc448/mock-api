@@ -1,0 +1,23 @@
+[
+  {
+    "trendId": "TRND1",
+    "displayName": "#RomanticBohemia",
+    "description": "combines free-spirited, 1960s/70s-inspired fashion with soft, feminine romanticism",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230414/Adrc/6438721c711cf97ba723ce84/-473Wx593H-463775725-green-MODEL.jpg",
+    "redirectQuery": ":relevance:trends:TRND1"
+  },
+  {
+    "trendId": "TRND2",
+    "displayName": "#ShaadiLehenga",
+    "description": "The bridal lehenga has been the heart and soul of Indian weddings for centuries",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20210218/z1dt/602d7dd9aeb269698167c7fb/-473Wx593H-460796250-black-MODEL.jpg",
+    "redirectQuery": ":relevance:trends:TRND2"
+  },
+  {
+    "trendId": "TRND3",
+    "displayName": "#ButterYellow",
+    "description": "A soft, pastel yellow trend that brings warmth, freshness, and a light, cheerful feel to everyday styles.",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220916/30EH/6323a4caaeb269dbb38f35ad/-473Wx593H-465004786-mustard-MODEL.jpg",
+    "redirectQuery": ":relevance:trends:TRND3"
+  }
+]
